@@ -20,7 +20,7 @@ if image_file is not None:
     with open(file_path, "wb") as f:
         f.write(image_file.getvalue())
 
-    if image_file is not None:
+    if weight_file is not None:
          # アップロードした画像の保存
         file_path2 = os.path.join(TMP_DIR_PATH, weight_file.name)
         with open(file_path2, "wb") as f2:
