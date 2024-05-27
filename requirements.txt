@@ -1,6 +1,8 @@
 # requirements
 # Usage: pip install -r requirements.txt
 
+ultralytics
+
 # Base ------------------------------------------------------------------------
 gitpython
 ipython
