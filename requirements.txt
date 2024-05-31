@@ -2,6 +2,7 @@
 # Usage: pip install -r requirements.txt
 
 ultralytics
+dill
 
 # Base ------------------------------------------------------------------------
 gitpython
